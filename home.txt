@@ -2,3 +2,4 @@ Esta é uma linha de texto
 Linha escrita na main
 Linha escrita na outra branch
 Esta é uma terceira linha de texto
+Linha escrita no repositório local
