@@ -1,3 +1,3 @@
 Esta é uma linha de texto
-Esta é uma segunda linha de texto
+Linha escrita na outra branch
 Esta é uma terceira linha de texto
